@@ -9,7 +9,7 @@ The notebook will have the following steps:
 5. Store the data in a persistent manner
 
 # Dataset
-kaggle datasets download -d ankurnapa/brewery-operations-and-market-analysis-dataset
+The dataset taken from Kaggle is the [Brewery Operations and Market Analysis Dataset](https://www.kaggle.com/datasets/ankurnapa/brewery-operations-and-market-analysis-dataset/). This is a synthetically produced dataset of beer brewing conditions, sales trends and quality metrics of craft beer from the years 2020-2024.
 
 # Setup Guideline
 
